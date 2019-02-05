@@ -6,7 +6,7 @@ If you open it directly in the browser, you will see an empty page.
 
 To begin the development, run `npm start`
 To create a production bundle, use `npm run build`
-The app should startup automatically.
+The app should startup automatically through localhost:3000
 
 ### Database
 There are six required columns: 
