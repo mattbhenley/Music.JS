@@ -1,4 +1,4 @@
-!(https://github.com/mattbhenley/Images/blob/master/applemusic.PNG)
+![Finished App](https://github.com/mattbhenley/Images/blob/master/applemusic.PNG)
 
 ### Startup 
 This HTML file is a template.
